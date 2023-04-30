@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## images of frontend
+![frntenduser](https://user-images.githubusercontent.com/73074409/235371837-afb7795e-ee5d-4fbf-9c9d-c4b26d058a85.png)
+![frntend](https://user-images.githubusercontent.com/73074409/235371838-b26ce558-eefb-41c4-bf99-9f9bc0213f82.png)
+These are the images of the frontend where first image shows the the table where all users will be listed and second image shows the section where it enables to add a new user.
